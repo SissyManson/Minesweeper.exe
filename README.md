@@ -1,5 +1,5 @@
 # Minesweeper.exe
-shitsweeper's executable file
+Minesweeper's executable file
 Download and you're ready to play 
 
 ⚠ How to play:
